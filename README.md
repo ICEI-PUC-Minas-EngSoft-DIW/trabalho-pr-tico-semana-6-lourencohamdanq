@@ -8,10 +8,10 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome:
+- Nome:Loureço hamdan quirino costa 
 - Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Proposta de projeto escolhida: site de filmes ("forum de filmes")
+- Breve descrição sobre seu projeto: um site sobre discusoes e notas de filmes de todo tipo de genero 
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 
